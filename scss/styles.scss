@@ -84,6 +84,10 @@
     z-index: 10;
 }
 
+.form-control:focus {
+    outline: none;
+}
+
 @media(max-width: 767px) {
     .header .social i {
         font-size: 40px;
