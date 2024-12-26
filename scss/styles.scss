@@ -32,6 +32,30 @@
     width: 200px;
 }
 
+.list-item-custom {
+    border: none; /* Вимикає нижню границю */
+}
+
+.custom-icon {
+    font-size: 24px !important;
+}
+
+.fa-code {
+    margin: 0px -4px 0px -6px;
+}
+
+.fa-html5 {
+    margin: 0px 3px 0px 0px;
+}
+
+.fa-bootstrap {
+    margin: 0px -2px 0px -4px !important;
+}
+
+.fa-lightbulb {
+    margin: 0px 3px;
+}
+
 @media(max-width: 767px) {
     .header .social i {
         font-size: 40px;
